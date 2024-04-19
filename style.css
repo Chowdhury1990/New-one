@@ -41,7 +41,7 @@ header{
 }
 
 .banner-btn{
-    background-color: #22f144;
+    background-color:darkorange;
     color: white;
     font-size: 20px;
     font-weight: 300;
@@ -52,4 +52,33 @@ header{
     /* margin-top: 578px;
     margin-left: 1210px; */
     
+}
+
+
+section{
+    /* border: 5px solid blue; */
+    width: 1000px;
+    margin-left: 150px;
+    margin-top: 60px;
+}
+
+.failures{
+    display: flex;
+}
+
+.failures-article {
+    margin-left: 140px;
+    margin-top: 30px;
+    
+
+}
+
+.failures-header{
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+.tick-color{
+    color: #16D887;
 }
