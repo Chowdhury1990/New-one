@@ -29,7 +29,7 @@ header{
     width: 400px;
     height: 450px;
     left: 50px;
-    padding-left: 700px;
+    padding-left: 500px;
 }
 
 
@@ -107,4 +107,50 @@ section{
 }
 
 .plans-part p{
-    margin-bottom: 60px;}
+    margin-bottom: 60px;
+}
+
+
+
+.posative{
+    /* background-image: linear-gradient(to right, #F15B22, #f5f2f1) , */
+
+    /* background:linear-gradient(to right, #F15B22 , #f7f3f1 ) ;
+    
+    
+    url('images/watch.png'); */
+    /* height: 200px; */
+    border-radius: 10px;
+
+    background-image:
+    linear-gradient(to right, rgba(255, 104, 17, 0.52), rgb(250, 243, 240)),
+    url('images/watch.png');
+
+}
+
+.posative-text{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 40px;
+     margin-bottom: 60px;
+    padding: 30px;
+    
+}
+
+.Call-btn{
+    margin-left: 70px;
+    padding: 10px;
+    background-color: white;
+    color: darkorange;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    border: 0;
+    /* margin-top: 5px; */
+     margin-bottom: 30px; 
+
+}
+
+
+
